@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 💬 **Ask me about:** Anything related to React, Redux, Ruby on Rails, and JavaScript. I'm also happy to share insights into my journey from data entry to becoming a passionate Software Engineer.
 
-📫 **How to reach me:** Feel free to drop me an email at ymoe9970@gmail.com  . You can also connect with me at linkedin.
+📫 **How to reach me:** Feel free to drop me an email at ymoe9970@gmail.com  . You can also connect with me at[ linkedin](https://www.linkedin.com/in/yadanarmoe?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEX1%2FuUPKSX2bBz2KwRtgJA%3D%3D).
 
 😄 **Pronouns:** She/Her
 
